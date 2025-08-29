@@ -1,16 +1,44 @@
-# 1st Phase (In Progress)
-**JUN 9, 2025** - Start researching on behavioral segmentation ✅
+# Feature Engineering on Provider Segmentation
+<ins>UPDATE</ins>: For main project change repository to provider-segmentation instead.
 
-**JUN 11, 2025** - Report all of 7 week's work and my project idea to my instructors ✅
+## APRIL 2025
+<pre>
+<b>APR 21 - 30, 2025</b> - Review Data Science and Data Engineer Workflow.
+</pre>
 
-**JUN 12, 2025** - Finish research and start to design presentation slides and main topic
+## MAY 2025
+<pre>
+<b>MAY 1 - 31, 2025</b> - Training with Data Scientist's Tasks.
+</pre>
 
-**JUN 24, 2025** - Finish Service Provider Segmentation (Behavior) slides and main topic (wait for Supervisors to refine slides/topic if any)
+## JUNE 2025
+<pre>
+<b>JUN 9, 2025</b> - Start researching on behavioral segmentation.
 
-**JUL 1, 2025** - Give Presentation to Executives with my Supervisors
+<b>JUN 11, 2025</b> - Report all of 7 week's work and my project idea to my instructors.
 
-**JUL 12, 2025** - Commit 1st report about Project Proposal
+<b>JUN 12, 2025</b> - Finish research and start to design presentation slides and main topic.
 
-# 2nd Phase
+<b>JUN 24, 2025</b> - Finish Service Provider Segmentation (Behavior) slides and main topic.
+</pre>
 
-**Training Data with Chosen Clustering Algorithm or Model**
+## JULY 2025
+<pre>
+<b>JUL 1, 2025</b> - Give Presentation to Executives (Booking Cancellation Problem).
+
+<b>JUL 12, 2025</b> - Commit 1st report about Project Proposal.
+</pre>
+
+## AUGUST 2025
+<pre>
+<b>AUG 14, 2025</b> - Commit 2nd & 3rd Project report.
+
+<b>AUG 25, 2025</b> - Give Internship 2nd Project Workflow Presentation.
+</pre>
+
+## SEPTEMBER 2025
+<pre>
+<b>SEP 12, 2025</b> - Give Final Presentation to Executives (Completed Provider Segmentation).
+
+<b>SEP 30, 2025</b> - FINAL DAY OF COOPERATIVE EDUCATION!
+</pre>
